@@ -199,6 +199,11 @@ const fimages = [
   "assets/images/7.jpg",
   "assets/images/3.jpg",
   "assets/images/6.jpg",
+  "assets/images/slid1.jpg",
+  "assets/images/slid2.jpg",
+  "assets/images/slid3.jpg",
+  "assets/images/slid4.jpg",
+  "assets/images/slid5.jpg",
 ];
 
 let c2ImageIndex = 0;
